@@ -94,8 +94,8 @@ ollama pull qwen2.5:3b
 ### 第 2 步：安装依赖并启动
 
 ```bash
-git clone https://github.com/<你的用户名>/<仓库名>.git
-cd <仓库名>
+git clone https://github.com/yangran-coder/ai-chatbot.git
+cd ai-chatbot
 ```
 
 **Windows（PowerShell / Git Bash）：**
